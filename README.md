@@ -12,3 +12,4 @@ Frontend: React.js
 Backend: Node.js, Express.js
 Database: MongoDB
 Styling: CSS, Bootstrap (for hover buttons and theme toggle)
+![Screenshot 2024-06-22 020620](https://github.com/czr-snail/PDF-repair/assets/162822108/cd312a9e-d0a4-47ba-be32-2ac1d82e6170)
